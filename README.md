@@ -18,6 +18,7 @@ Subservices are those designed for OEM or advance users that know how to build f
 |---|---|---|---|
 |TorrentA|Torrent downloading application for ArozOS|OAO|https://github.com/aroz-online/TorrentA|
 |WsTTY|Terminal App for ArozOS|OAO|https://github.com/aroz-online/WsTTY|
+|WebProxy|A basic web proxy|https://github.com/aroz-online/webproxy|
 |ArSamba|Samba account creation UI for ArozOS|tobychui|https://github.com/aroz-online/ArSamba|
 |SlicerA|STL to Gcode slicer for 3D printing|tobychui|https://github.com/tobychui/SlicerA|
 
